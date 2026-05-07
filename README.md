@@ -2,6 +2,13 @@
 
 Align a WAV file to each MP4 in a folder and mux the result using waveform cross-correlation.
 
+## Clone
+
+```bash
+git clone https://github.com/richardruffct/audio-sync.git
+cd audio-sync
+```
+
 ## Usage
 
 ```bash
